@@ -37,7 +37,7 @@ Presented findings and translated analytical results into business-oriented insi
 
 ## 📜 Certificate
 
-[View Certificate](TATA Data Visualization Job Simulation Certificate.png)
+![View Certificate](TATA Data Visualization Job Simulation Certificate.png)
 
 ## 🎯 Key Learning
 
